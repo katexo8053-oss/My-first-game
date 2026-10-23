@@ -1,0 +1,6 @@
+{
+  "name": "Umbra: The Ashen Pilgrim",
+  "description": "A moody 2D indie action-adventure featuring hand-drawn pixel art, fluid sword combat, atmospheric lighting, and a dynamic melancholic soundtrack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
